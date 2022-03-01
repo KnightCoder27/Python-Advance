@@ -18,9 +18,9 @@ button_7=Button(window,text="7",padx=40,pady=20,command=button_click)
 button_8=Button(window,text="8",padx=40,pady=20,command=button_click)
 button_9=Button(window,text="9",padx=40,pady=20,command=button_click)
 button_0=Button(window,text="0",padx=40,pady=20,command=button_click)
-button_add=Button(window,text="Add",padx=40,pady=20,command=button_click)
-button_clear=Button(window,text="clear",padx=32,pady=20,command=button_click)
-button_equal=Button(window,text="Equal",padx=32,pady=20,command=button_click)
+button_add=Button(window,text="Add",padx=39,pady=20,command=button_click)
+button_clear=Button(window,text="clear",padx=91,pady=20,command=button_click)
+button_equal=Button(window,text="Equal",padx=79,pady=20,command=button_click)
 
 
 
