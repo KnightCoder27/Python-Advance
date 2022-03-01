@@ -1,3 +1,6 @@
 # Python-Advance-
 
-Programming Code for All Advance Topics
+Tkinter is a GUI (Graphical User Interface) in python.
+
+Programming Code for Tkinter Topic.
+
