@@ -1,7 +1,7 @@
 import mysql.connector
 from tabulate import  tabulate
 
-con = mysql.connector.connect(host="localhost",user="root",password="toor",database="besant")
+con = mysql.connector.connect(host="localhost",user="root",password="root",database="stat")
 
 
 
