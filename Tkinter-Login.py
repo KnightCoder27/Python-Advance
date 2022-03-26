@@ -17,7 +17,7 @@ CB.pack()
 
 def click():
     L3 = Label(window,text=f"Email-Id: {E1.get()}",fg="Red")
-    L4 = Label(window,text=f"Email-Id: {E2.get()}",fg="Red")
+    L4 = Label(window,text=f"Password: {E2.get()}",fg="Red")
     L3.pack()
     L4.pack()
 
